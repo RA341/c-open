@@ -1,4 +1,4 @@
-                                                                                                                                                                                                                                                                                                                                                              // integer stack
+// integer stack
 #include<stdio.h>
  int n=5;
 
