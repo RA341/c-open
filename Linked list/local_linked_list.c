@@ -55,7 +55,7 @@ void delete(node *head,int ele){
         return;
     }
 
-    node* temp = head;
+    node* temp = cur;
     pre ->next = cur -> next;
     temp ->next = NULL;
     free(temp);
